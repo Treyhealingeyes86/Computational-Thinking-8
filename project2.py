@@ -55,5 +55,7 @@ elif choice1 == "search the cabinet" or choice1 == "cabinet":
         print("Skeptical, you stay in that cold dark room forever.")
     else:
         print("Yes or no.")
+elif choice1 == "eat breakfast" or choice1 == "eat":
+    print("You can't eat! There's no food!")
 else:
     print("You only have 2 options. Use lowercase.")
